@@ -1,2 +1,2 @@
 # Temperature Converter
-An app that converts the temperature in Fahrenheit you input, and then change to Celsius.
+An app that converts the temperature in Fahrenheit your input, and then changes to Celsius.
